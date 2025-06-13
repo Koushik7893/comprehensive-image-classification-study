@@ -75,7 +75,7 @@ Here’s the continuation of your README with:
 ## 🖼️ Sample Results / Visualizations
 
 ```markdown
-![Grad-CAM Output](assets/sample_gradcam_output.png)
+![Grad-CAM Output](assets/output.png)
 ```
 
 ---
