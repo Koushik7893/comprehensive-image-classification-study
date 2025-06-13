@@ -75,7 +75,7 @@ Here’s the continuation of your README with:
 ## 🖼️ Sample Results / Visualizations
 
 ```markdown
-![Grad-CAM Output](assets/output.png)
+![Grad-CAM Output](https://raw.githubusercontent.com/Koushik7893/comprehensive-image-classification-study/main/assets/output.png)
 ```
 
 ---
@@ -107,7 +107,7 @@ Here’s the continuation of your README with:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-Koushik7893/comprehensive-image-classification-study.git
+git clone https://github.com/Koushik7893/comprehensive-image-classification-study.git
 cd comprehensive-image-classification-study
 
 # Install dependencies
