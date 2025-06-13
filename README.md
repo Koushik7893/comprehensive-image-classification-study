@@ -107,8 +107,8 @@ Here’s the continuation of your README with:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-Koushik7893/image-classification-project.git
-cd image-classification-project
+git clone https://github.com/your-Koushik7893/comprehensive-image-classification-study.git
+cd comprehensive-image-classification-study
 
 # Install dependencies
 pip install -r requirements.txt
