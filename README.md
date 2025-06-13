@@ -75,7 +75,7 @@ Here’s the continuation of your README with:
 ## 🖼️ Sample Results / Visualizations
 
 ```markdown
-![Grad-CAM Output](https://raw.githubusercontent.com/Koushik7893/comprehensive-image-classification-study/main/assets/output.png)
+![Grad-CAM Output](./assets/output.png)
 ```
 
 ---
