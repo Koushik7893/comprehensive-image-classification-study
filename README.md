@@ -185,7 +185,7 @@ This project uses the following key tools and libraries:
 ## 🧑‍💻 Author / Contributors
 
 **Koushik Reddy**
-🔗 [Hugging Face](https://huggingface.co/Koushim) | [LinkedIn](https://www.linkedin.com/in/koushik-reddy-k-790938257)
+🔗 [Hugging Face](https://huggingface.co/Koushim) 
 
 Feel free to reach out for collaboration, suggestions, or questions!
 
